@@ -1,0 +1,11 @@
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUGAS\WEEK 11\ClassLibraryProject\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.deps.json
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUGAS\WEEK 11\ClassLibraryProject\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.dll
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUGAS\WEEK 11\ClassLibraryProject\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.pdb
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUGAS\WEEK 11\ClassLibraryProject\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUGAS\WEEK 11\ClassLibraryProject\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfoInputs.cache
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUGAS\WEEK 11\ClassLibraryProject\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfo.cs
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUGAS\WEEK 11\ClassLibraryProject\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.csproj.CoreCompileInputs.cache
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUGAS\WEEK 11\ClassLibraryProject\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.dll
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUGAS\WEEK 11\ClassLibraryProject\AljabarLibraries\obj\Debug\net8.0\refint\AljabarLibraries.dll
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUGAS\WEEK 11\ClassLibraryProject\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.pdb
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUGAS\WEEK 11\ClassLibraryProject\AljabarLibraries\obj\Debug\net8.0\ref\AljabarLibraries.dll
